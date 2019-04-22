@@ -56,6 +56,8 @@
 					{{- end }}
 					return graphql.Null
 				}
+			{{- end }}
+
 			{{- if $type.IsSlice }}
 				{{- if not $type.GQL.NonNull }}
 					if v == nil {
