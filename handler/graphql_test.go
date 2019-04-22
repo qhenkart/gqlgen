@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/99designs/gqlgen/graphql"
+	"github.com/qhenkart/gqlgen/graphql"
 
 	"github.com/stretchr/testify/assert"
 )

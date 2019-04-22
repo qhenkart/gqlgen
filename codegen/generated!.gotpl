@@ -9,8 +9,8 @@
 
 {{ reserveImport "github.com/vektah/gqlparser" }}
 {{ reserveImport "github.com/vektah/gqlparser/ast" }}
-{{ reserveImport "github.com/99designs/gqlgen/graphql" }}
-{{ reserveImport "github.com/99designs/gqlgen/graphql/introspection" }}
+{{ reserveImport "github.com/qhenkart/gqlgen/graphql" }}
+{{ reserveImport "github.com/qhenkart/gqlgen/graphql/introspection" }}
 
 
 // NewExecutableSchema creates an ExecutableSchema from the ResolverRoot interface.

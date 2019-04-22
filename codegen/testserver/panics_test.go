@@ -7,8 +7,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/99designs/gqlgen/client"
-	"github.com/99designs/gqlgen/handler"
+	"github.com/qhenkart/gqlgen/client"
+	"github.com/qhenkart/gqlgen/handler"
 )
 
 func TestPanics(t *testing.T) {

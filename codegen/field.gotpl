@@ -14,7 +14,7 @@
 				return nil
 			}
 		{{- end }}
-		// FIXME: subscriptions are missing request middleware stack https://github.com/99designs/gqlgen/issues/259
+		// FIXME: subscriptions are missing request middleware stack https://github.com/qhenkart/gqlgen/issues/259
 		//          and Tracer stack
 		rctx := ctx
 		results, err := ec.resolvers.{{ $field.ShortInvocation }}

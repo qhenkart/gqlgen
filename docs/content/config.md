@@ -56,8 +56,8 @@ models:
   # resolver args.
   ID:
     model:
-      - github.com/99designs/gqlgen/graphql.IntID
-      - github.com/99designs/gqlgen/graphql.ID
+      - github.com/qhenkart/gqlgen/graphql.IntID
+      - github.com/qhenkart/gqlgen/graphql.ID
 ```
 
 Everything has defaults, so add things as you need.
