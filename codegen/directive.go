@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/99designs/gqlgen/codegen/templates"
+	"github.com/qhenkart/gqlgen/codegen/templates"
 	"github.com/pkg/errors"
 	"github.com/vektah/gqlparser/ast"
 )

@@ -2,7 +2,7 @@
 {{ reserveImport "log" }}
 {{ reserveImport "net/http" }}
 {{ reserveImport "os" }}
-{{ reserveImport "github.com/99designs/gqlgen/handler" }}
+{{ reserveImport "github.com/qhenkart/gqlgen/handler" }}
 
 const defaultPort = "8080"
 

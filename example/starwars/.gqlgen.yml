@@ -4,11 +4,11 @@ model:
   filename: models/generated.go
 
 autobind:
-  - github.com/99designs/gqlgen/example/starwars/models
+  - github.com/qhenkart/gqlgen/example/starwars/models
 
 models:
   ReviewInput:
-    model: github.com/99designs/gqlgen/example/starwars/models.Review
+    model: github.com/qhenkart/gqlgen/example/starwars/models.Review
   Starship:
     fields:
       length:

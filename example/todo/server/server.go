@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"runtime/debug"
 
-	"github.com/99designs/gqlgen/example/todo"
-	"github.com/99designs/gqlgen/handler"
+	"github.com/qhenkart/gqlgen/example/todo"
+	"github.com/qhenkart/gqlgen/handler"
 )
 
 func main() {

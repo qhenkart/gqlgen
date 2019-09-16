@@ -4,9 +4,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/99designs/gqlgen/codegen"
-	"github.com/99designs/gqlgen/codegen/templates"
-	"github.com/99designs/gqlgen/plugin"
+	"github.com/qhenkart/gqlgen/codegen"
+	"github.com/qhenkart/gqlgen/codegen/templates"
+	"github.com/qhenkart/gqlgen/plugin"
 	"github.com/pkg/errors"
 )
 

@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/99designs/gqlgen/client"
-	"github.com/99designs/gqlgen/graphql/introspection"
-	"github.com/99designs/gqlgen/handler"
+	"github.com/qhenkart/gqlgen/client"
+	"github.com/qhenkart/gqlgen/graphql/introspection"
+	"github.com/qhenkart/gqlgen/handler"
 	"github.com/stretchr/testify/require"
 )
 

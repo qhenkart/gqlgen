@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/99designs/gqlgen/graphql"
+	"github.com/qhenkart/gqlgen/graphql"
 	"github.com/gorilla/websocket"
 	lru "github.com/hashicorp/golang-lru"
 	"github.com/vektah/gqlparser"

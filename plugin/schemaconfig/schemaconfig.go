@@ -1,8 +1,8 @@
 package schemaconfig
 
 import (
-	"github.com/99designs/gqlgen/codegen/config"
-	"github.com/99designs/gqlgen/plugin"
+	"github.com/qhenkart/gqlgen/codegen/config"
+	"github.com/qhenkart/gqlgen/plugin"
 	"github.com/vektah/gqlparser/ast"
 )
 

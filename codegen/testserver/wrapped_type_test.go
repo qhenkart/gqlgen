@@ -5,9 +5,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/99designs/gqlgen/client"
-	"github.com/99designs/gqlgen/codegen/testserver/otherpkg"
-	"github.com/99designs/gqlgen/handler"
+	"github.com/qhenkart/gqlgen/client"
+	"github.com/qhenkart/gqlgen/codegen/testserver/otherpkg"
+	"github.com/qhenkart/gqlgen/handler"
 	"github.com/stretchr/testify/require"
 )
 

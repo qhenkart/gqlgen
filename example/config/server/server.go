@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	todo "github.com/99designs/gqlgen/example/config"
-	"github.com/99designs/gqlgen/handler"
+	todo "github.com/qhenkart/gqlgen/example/config"
+	"github.com/qhenkart/gqlgen/handler"
 )
 
 func main() {

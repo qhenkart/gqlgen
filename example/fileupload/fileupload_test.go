@@ -12,9 +12,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/99designs/gqlgen/example/fileupload/model"
-	"github.com/99designs/gqlgen/graphql"
-	"github.com/99designs/gqlgen/handler"
+	"github.com/qhenkart/gqlgen/example/fileupload/model"
+	"github.com/qhenkart/gqlgen/graphql"
+	"github.com/qhenkart/gqlgen/handler"
 	"github.com/stretchr/testify/require"
 )
 
